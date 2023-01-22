@@ -1,4 +1,4 @@
-import './App.css';
+import './App.css'; 
 
 function App() {
   return (
@@ -9,7 +9,7 @@ function App() {
             <h1>
               <a href='index.html'>
                 <span class='fa-solid fa-laptop-code' aria-hidden='true'></span>
-                <span>Robert Bedenbaugh</span>
+                <span>&nbsp;Robert Bedenbaugh</span>
               </a>
             </h1>
           </li>
@@ -64,7 +64,7 @@ function App() {
           I'm a Sr. Frontend Engineer focusing on React, JS/TS, HTML, & CSS.
         </p>
         <p>
-          Currently, I'm working at
+          Currently, I'm working at&nbsp;
           <a
             href='https://www.linkedin.com/company/82512583/admin/'
             target='_blank'
@@ -72,7 +72,7 @@ function App() {
           >
             Obsidian 6.0
           </a>
-          & freelancing creating websites for small business and non-profits.
+          &nbsp;& freelancing creating websites for small business and non-profits.
         </p>
       </section>
 
@@ -85,7 +85,7 @@ function App() {
             <div class='text'>
               <h4>Latest Project</h4>
               <h3>Machinist Endmill Speed and Feed Calculator</h3>
-              <p class='blackbox'>
+              <p class='textbox'>
                 <a
                   href='https://speedfeedcalc.netlify.app/'
                   target='_blank'
@@ -93,7 +93,7 @@ function App() {
                 >
                   This
                 </a>
-                was made OG-style because, frankly, I needed a refresher.
+                &nbsp;was made OG-style because, frankly, I needed a refresher.&nbsp;
                 <a
                   href='https://github.com/rhbedenbaugh/SurfaceSpeedCalculator'
                   target='_blank'
@@ -101,7 +101,7 @@ function App() {
                 >
                   Here
                 </a>
-                is the github repo. Feel free to fork, clone, and make it your
+                &nbsp;is the github repo. Feel free to fork, clone, and make it your
                 own.
               </p>
               <h4>Technologies used include:</h4>
@@ -112,7 +112,7 @@ function App() {
               </ul>
             </div>
             <img
-              src='public/S&F_calc.png'
+              src={require('./images/S&F_calc.png')}
               alt='Screenshot of speed and feed calculator'
             />
           </article>
@@ -121,7 +121,7 @@ function App() {
             <div class='text'>
               <h4>Recent Project</h4>
               <h3>Clemson Calculator</h3>
-              <p class='blackbox'>
+              <p class='textbox'>
                 <a
                   href='https://clemson-calculator.netlify.app/'
                   target='_blank'
@@ -129,9 +129,9 @@ function App() {
                 >
                   This
                 </a>
-                was a fun project & core functions work flawlessly to my
+                &nbsp;was a fun project & core functions work flawlessly to my
                 knowledge. I do need to finish the color change logic for other
-                colleges.
+                colleges.&nbsp;
                 <a
                   href='https://github.com/rhbedenbaugh/Clemson-Calculator'
                   target='_blank'
@@ -139,7 +139,7 @@ function App() {
                 >
                   Here
                 </a>
-                is the github repo. Feel free to fork, clone, and make PRs.
+                &nbsp;is the github repo. Feel free to fork, clone, and make PRs.
               </p>
               <h4>Technologies used include:</h4>
               <ul>
@@ -150,7 +150,7 @@ function App() {
               </ul>
             </div>
             <img
-              src='public/Clemson Calculator.jpg'
+              src={require('./images/Clemson Calculator.jpg')}
               alt='Screenshot of Clemson Calculator.'
             />
           </article>
@@ -159,8 +159,8 @@ function App() {
             <div class='text'>
               <h4>Funnest Project</h4>
               <h3>Wilson Tree Service</h3>
-              <p class='blackbox'>
-                Now 
+              <p class='textbox'>
+                Now&nbsp; 
                 <a
                   href='https://christinadroberts.github.io/WilsonTreeServiceLLC/'
                   target='_blank'
@@ -168,7 +168,7 @@ function App() {
                 >
                   this 
                 </a> 
-                was a great experience! I worked with
+                &nbsp;was a great experience! I worked with&nbsp;
                 <a
                   href='https://www.linkedin.com/in/christina-roberts-fsd/'
                   target='_blank'
@@ -176,8 +176,8 @@ function App() {
                 >
                   Christina Roberts
                 </a>
-                on this local small business site. We collaborated and discussed
-                MANY ideas and were both pleased with the final result.
+                &nbsp;on this local small business site. We collaborated and discussed
+                MANY ideas and were both pleased with the final result.&nbsp;
                 <a
                   href='https://github.com/rhbedenbaugh/WilsonTreeServiceLLC'
                   target='_blank'
@@ -185,7 +185,7 @@ function App() {
                 >
                   Here
                 </a>
-                is the link to my fork.
+                &nbsp;is the link to my fork.
               </p>
               <h4>Technologies used include:</h4>
               <ul>
@@ -195,7 +195,7 @@ function App() {
               </ul>
             </div>
             <img
-              src='../public/S&F_calc.png'
+              src={require('./images/Wilson Tree Service.jpg')}
               alt='Screenshot of Wilson Tree Service.'
             />
           </article>
