@@ -227,11 +227,9 @@ nav [class*='fa-']:hover {
 }
 
 /* about section */
-.about {
-  background-color: var(--deadgrass);
-  color: var(--oakbark);
-  text-align: center;
-  padding: 4rem 0;
+#about {
+  padding: 1rem 1rem;
+  background-color: var(--pine);
 }
 
 #about h2 {
@@ -281,7 +279,7 @@ nav [class*='fa-']:hover {
 
 /* contact section */
 #contact {
-  width: 300px;
+  background-color: var(--straw);
   text-align: center;
   margin: 0 auto;
   padding: 3rem 0;
