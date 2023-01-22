@@ -78,11 +78,12 @@ function App() {
 
       <div class='gradient-1'></div>
 
-      <div class='section-dkblue'>
+      <div class='section-skyblue'>
         <section id='projects'>
           <h2>Project List</h2>
           <article>
             <div class='text'>
+              <h1>&nbsp;</h1>
               <h4>Latest Project</h4>
               <h3>Machinist Endmill Speed and Feed Calculator</h3>
               <p class='textbox'>
@@ -119,6 +120,7 @@ function App() {
 
           <article>
             <div class='text'>
+              <h1>&nbsp;</h1>
               <h4>Recent Project</h4>
               <h3>Clemson Calculator</h3>
               <p class='textbox'>
@@ -149,14 +151,15 @@ function App() {
                 <li>CSS</li>
               </ul>
             </div>
-            <img
-              src={require('./images/Clemson Calculator.jpg')}
-              alt='Screenshot of Clemson Calculator.'
-            />
+                <img
+                  src={require('./images/Clemson Calculator.jpg')}
+                  alt='Screenshot of Clemson Calculator.'
+                />
           </article>
 
           <article>
             <div class='text'>
+              <h1>&nbsp;</h1>
               <h4>Funnest Project</h4>
               <h3>Wilson Tree Service</h3>
               <p class='textbox'>
@@ -204,7 +207,7 @@ function App() {
 
       <div class='gradient-2'></div>
 
-      <div class='section-plum'>
+      <div class='section-pine'>
         <section id='contact'>
           <h2>Contact me</h2>
           <p>
