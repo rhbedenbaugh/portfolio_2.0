@@ -1,4 +1,4 @@
-import './App.css'; 
+import './App.css';
 
 function App() {
   return (
@@ -17,7 +17,7 @@ function App() {
             <a href='#projects'>Projects</a>
           </li>
           <li>
-            <a href='about.html'>About</a>
+            <a href='#about'>About</a>
           </li>
           <li>
             <a href='#contact'>Contact</a>
@@ -64,7 +64,7 @@ function App() {
           I'm a Sr. Frontend Engineer focusing on React, JS/TS, HTML, & CSS.
         </p>
         <p>
-          Currently, I'm working at&nbsp;
+          Currently, I'm free-lancing for&nbsp;
           <a
             href='https://www.linkedin.com/company/82512583/admin/'
             target='_blank'
@@ -72,7 +72,7 @@ function App() {
           >
             Obsidian 6.0
           </a>
-          &nbsp;& freelancing creating websites for small business and non-profits.
+          &nbsp;& creating websites for small business and non-profits.
         </p>
       </section>
 
@@ -94,7 +94,8 @@ function App() {
                 >
                   This
                 </a>
-                &nbsp;was made OG-style because, frankly, I needed a refresher.&nbsp;
+                &nbsp;was made OG-style because, frankly, I needed a
+                refresher.&nbsp;
                 <a
                   href='https://github.com/rhbedenbaugh/SurfaceSpeedCalculator'
                   target='_blank'
@@ -102,8 +103,8 @@ function App() {
                 >
                   Here
                 </a>
-                &nbsp;is the github repo. Feel free to fork, clone, and make it your
-                own.
+                &nbsp;is the github repo. Feel free to fork, clone, and make it
+                your own.
               </p>
               <h4>Technologies used include:</h4>
               <ul>
@@ -141,7 +142,8 @@ function App() {
                 >
                   Here
                 </a>
-                &nbsp;is the github repo. Feel free to fork, clone, and make PRs.
+                &nbsp;is the github repo. Feel free to fork, clone, and make
+                PRs.
               </p>
               <h4>Technologies used include:</h4>
               <ul>
@@ -151,10 +153,10 @@ function App() {
                 <li>CSS</li>
               </ul>
             </div>
-                <img
-                  src={require('./images/Clemson Calculator.jpg')}
-                  alt='Screenshot of Clemson Calculator.'
-                />
+            <img
+              src={require('./images/Clemson Calculator.jpg')}
+              alt='Screenshot of Clemson Calculator.'
+            />
           </article>
 
           <article>
@@ -163,14 +165,14 @@ function App() {
               <h4>Funnest Project</h4>
               <h3>Wilson Tree Service</h3>
               <p class='textbox'>
-                Now&nbsp; 
+                Now&nbsp;
                 <a
                   href='https://christinadroberts.github.io/WilsonTreeServiceLLC/'
                   target='_blank'
                   rel='noreferrer'
                 >
-                  this 
-                </a> 
+                  this
+                </a>
                 &nbsp;was a great experience! I worked with&nbsp;
                 <a
                   href='https://www.linkedin.com/in/christina-roberts-fsd/'
@@ -179,8 +181,9 @@ function App() {
                 >
                   Christina Roberts
                 </a>
-                &nbsp;on this local small business site. We collaborated and discussed
-                MANY ideas and were both pleased with the final result.&nbsp;
+                &nbsp;on this local small business site. We collaborated and
+                discussed MANY ideas and were both pleased with the final
+                result.&nbsp;
                 <a
                   href='https://github.com/rhbedenbaugh/WilsonTreeServiceLLC'
                   target='_blank'
@@ -208,6 +211,96 @@ function App() {
       <div class='gradient-2'></div>
 
       <div class='section-pine'>
+        <section id='about'>
+          <h2>About me</h2>
+
+          <article>
+            <div class='text'>
+              <h1>&nbsp;</h1>
+              <h3>Just the facts</h3>
+              <p class='blackbox'>
+                I've been writing code since&nbsp;
+                <a
+                  href='https://en.wikipedia.org/wiki/1999'
+                  target='_blank'
+                  rel='noreferrer'
+                >
+                  1999
+                </a>
+                . The majority of my career has been dedicated to writing &
+                optimizing&nbsp;
+                <a
+                  href='https://en.wikipedia.org/wiki/G-code'
+                  target='_blank'
+                  rel='noreferrer'
+                >
+                  gcode
+                </a>
+                &nbsp;for manufacturing machines. "Time is money" and the faster
+                machines produce, the better. I currently have a great full-time
+                on-site position at&nbsp;
+                <a
+                  href='https://www.itt.com/home'
+                  target='_blank'
+                  rel='noreferrer'
+                >
+                  ITT, Inc
+                </a>
+                . <br />I started learning web dev techs 3 years ago and
+                attended&nbsp;
+                <a
+                  href='https://www.codesmith.io/'
+                  target='_blank'
+                  rel='noreferrer'
+                >
+                  Codesmith
+                </a>
+                's Global Part-Time Remote Immersive (
+                <a
+                  href='https://www.codesmith.io/immersive-program-page#our_programs'
+                  target='_blank'
+                  rel='noreferrer'
+                >
+                  PTRI
+                </a>
+                ) program during 2022. I am currently considering fully-remote
+                frontend positions.
+                <br />
+                <br />
+                My favorite hobby is yardwork and gardening. Working outside and
+                getting some VitaminD may be the greatest form of recreational
+                therapy. We grow a good portion of our own food, have several
+                fruiting trees and&nbsp;
+                <a
+                  href='https://www.npr.org/sections/thesalt/2017/09/26/551835327/muscadines-may-be-the-best-grapes-you-ve-never-tasted'
+                  target='_blank'
+                  rel='noreferrer'
+                >
+                  vines
+                </a>
+                , and many flowering bushes. Caring for these and simply
+                trimming the grass are so satisfying. <br />I even enjoy blowing
+                the leaves in the&nbsp;
+                <a
+                  href='https://www.google.com/search?q=ber+months&rlz=1C1CHZN_enUS982US982&sxsrf=AJOqlzWzS2mKq3b6ptEeWBfbcszKU90SwQ:1673311035721&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjT0Yev4bv8AhUXnWoFHbmwAKsQ_AUoAXoECAEQAw&biw=1536&bih=760&dpr=1.25'
+                  target='_blank'
+                  rel='noreferrer'
+                >
+                  BER
+                </a>
+                &nbsp;months.
+              </p>
+            </div>
+            <img
+              src={require('../src/images/me.jpg')}
+              alt='Robert Bedenbaugh.'
+            />
+          </article>
+        </section>
+      </div>
+      <div class='gradient-3'></div>
+
+      <div class='section-straw'>
         <section id='contact'>
           <h2>Contact me</h2>
           <p>
@@ -217,20 +310,32 @@ function App() {
             501(c)(3)s get a site up and running. Let's make something great
             happen together.
           </p>
-          <p>
-            <a
-              href='mailto:robertbedenbaughjr@gmail.com'
-              class='button'
-              target='_blank'
-              rel='noreferrer'
-            >
-              Email me
-            </a>
-          </p>
+          <ul>
+            <li>
+              <a
+                href='mailto:robertbedenbaughjr@gmail.com'
+                class='button'
+                target='_blank'
+                rel='noreferrer'
+              >
+                Email me
+              </a>
+            </li>
+            <li>
+              <a
+                href='sms:+18642472299?&body=Hi%2C%20there.%20I%27d%20like%20to%20talk%20with%20you%20about...'
+                class='button'
+                target='_blank'
+                rel='noreferrer'
+              >
+                Text me
+              </a>
+            </li>
+          </ul>
         </section>
       </div>
 
-      <div class='gradient-3'></div>
+      <div class='gradient-4'></div>
 
       <footer>
         <h2>
