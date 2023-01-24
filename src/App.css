@@ -86,7 +86,7 @@ img {
   background: linear-gradient(
     180deg,
     rgba(17, 55, 18, 1) 10%,
-    rgba(190, 114, 52, 1) 90%
+    rgba(204, 172, 123, 1) 90%
   );
 }
 
@@ -276,26 +276,26 @@ nav [class*='fa-']:hover {
   padding: 1rem;
 }
 
-
 /* contact section */
 #contact {
-  background-color: var(--straw);
+  background-color: var(--deadgrass);
   text-align: center;
   margin: 0 auto;
   padding: 3rem 0;
-  color: var(--oakbark)
+  color: var(--oakbark);
 }
 
-#contact p:last-child {
+/* #contact p:last-child {
   margin-top: 3 rem;
-}
+} */
 
 /* footer */
 footer {
   background-color: var(--deadgrass);
-  color: var(--oakbark);
   text-align: center;
-  padding: 4rem 0;
+  margin: 0 auto;
+  padding: 2rem 0;
+  color: var(--oakbark);
 }
 footer ul {
   list-style-type: none;
@@ -307,11 +307,17 @@ footer ul {
   gap: 3rem;
   font-size: 3rem;
 }
+.grid-container {
+  display: grid;
+  align-content: center;
+  grid-template-columns: 1fr 1fr;
+  grid-gap: 20px;
+}
 
 @media (min-width: 800px) {
   article {
     display: grid;
-    grid-template-columns: repeat(19, 1fr);
+    grid-template-columns: repeat(20, 1fr);
   }
   #projects img {
     grid-column: 2/11;
@@ -322,7 +328,7 @@ footer ul {
     grid-row: 1/2;
   }
   .text {
-    grid-column: 11/19;
+    grid-column: 11/20;
     grid-row: 1/2;
     order: 2;
     text-align: right;

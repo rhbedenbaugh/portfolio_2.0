@@ -1,4 +1,5 @@
 import '../App.css';
+import Project from './Project';
 
 function ProjectContainer() {
   return (
@@ -86,7 +87,7 @@ function ProjectContainer() {
           <div class='text'>
             <h1>&nbsp;</h1>
             <h4>Funnest Project</h4>
-            <h3>Wilson Tree Service</h3>
+            <h3>Wilson Tree Service, LLC</h3>
             <p class='textbox'>
               Now&nbsp;
               <a
