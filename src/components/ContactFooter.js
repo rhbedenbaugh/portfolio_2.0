@@ -24,8 +24,9 @@ function ContactFooter() {
             <br />
             great happen together.
           </p>
+          <p></p>
           <p>
-            <h2>
+            <h2><br></br>
               Robert Bedenbaugh <br />
               &middot; <br />
               Sr. Frontend Engineer

@@ -304,13 +304,13 @@ footer ul {
   display: flex;
   flex-flow: row wrap;
   justify-content: center;
-  gap: 3rem;
+  gap: 5rem;
   font-size: 3rem;
 }
 .grid-container {
   display: grid;
   align-content: center;
-  grid-template-columns: 1fr 1fr;
+  grid-template-columns: 1fr 1fr 1fr;
   grid-gap: 20px;
 }
 
