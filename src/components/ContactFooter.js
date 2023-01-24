@@ -26,7 +26,7 @@ function ContactFooter() {
           </p>
           <p></p>
           <p>
-            <h2><br></br>
+            <h2>
               Robert Bedenbaugh <br />
               &middot; <br />
               Sr. Frontend Engineer
