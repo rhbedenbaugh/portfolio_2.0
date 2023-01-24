@@ -1,5 +1,5 @@
 import '../App.css';
-import Project from './Project';
+// import Project from './Project';
 
 function ProjectContainer() {
   return (

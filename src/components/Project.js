@@ -36,7 +36,7 @@ let projects = [
   },
 ];
 
-function Project(projects) {
+function Project() {
   projects.forEach(function (el) {
     return (
       <article>
