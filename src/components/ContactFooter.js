@@ -3,7 +3,7 @@ import '../App.css';
 function ContactFooter() {
   return (
     <footer class='footer'>
-      <section id='footer'>
+      <section id='contact'>
         <div>
           <h2>Contact me</h2>
         </div>
