@@ -48,7 +48,7 @@ function ProjectContainer() {
           <div class='text'>
             <h1>&nbsp;</h1>
             <h4>Recent Project</h4>
-            <h3>Clemson Calculator</h3>
+            <h3>College Calculator</h3>
             <p class='textbox'>
               <a
                 href='https://clemson-calculator.netlify.app/'
