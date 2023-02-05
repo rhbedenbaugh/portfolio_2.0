@@ -320,7 +320,7 @@ footer ul {
     display: grid;
     grid-template-columns: repeat(20, 1fr);
   }
-  #projects img {
+  #projects a {
     grid-column: 2/11;
     grid-row: 1/2;
   }

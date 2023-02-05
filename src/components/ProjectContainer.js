@@ -38,10 +38,16 @@ function ProjectContainer() {
               <li>JavaScript</li>
             </ul>
           </div>
-          <img
-            src={require('../images/S&F_calc.png')}
-            alt='Screenshot of speed and feed calculator'
-          />
+          <a
+            href='https://speedfeedcalc.netlify.app/'
+            target='_blank'
+            rel='noreferrer'
+          >
+            <img
+              src={require('../images/S&F_calc.png')}
+              alt='Screenshot of speed and feed calculator'
+            />
+          </a>
         </article>
 
         <article>
@@ -77,10 +83,17 @@ function ProjectContainer() {
               <li>CSS</li>
             </ul>
           </div>
-          <img
-            src={require('../images/Clemson Calculator.jpg')}
-            alt='Screenshot of Clemson Calculator.'
-          />
+          <a
+            href='https://clemson-calculator.netlify.app/'
+            target='_blank'
+            rel='noreferrer'
+          >
+            <img
+              src={require('../images/Clemson Calculator.jpg')}
+              alt='Screenshot of Clemson Calculator.'
+              href='https://clemson-calculator.netlify.app/'
+            />
+          </a>
         </article>
 
         <article>
@@ -124,10 +137,16 @@ function ProjectContainer() {
               <li>CSS</li>
             </ul>
           </div>
-          <img
-            src={require('../images/Wilson Tree Service.jpg')}
-            alt='Screenshot of Wilson Tree Service.'
-          />
+          <a
+            href='https://christinadroberts.github.io/WilsonTreeServiceLLC/'
+            target='_blank'
+            rel='noreferrer'
+          >
+            <img
+              src={require('../images/Wilson Tree Service.jpg')}
+              alt='Screenshot of Wilson Tree Service.'
+            />
+          </a>
         </article>
       </section>
     </>
