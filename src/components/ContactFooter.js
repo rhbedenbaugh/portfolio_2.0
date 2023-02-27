@@ -67,7 +67,7 @@ function ContactFooter() {
             </li>
             <li>
               <a
-                href='sms:+18642472299?&body=Hi%2C%20Robert.%20I%27d%20like%20to%20talk%20with%20you%200about%20'
+                href='sms:+18642472299?&body=Hi%2C%20Robert.%20I%27d%20like%20to%20talk%20with%20you%20about%20'
                 target='_blank'
                 rel='noreferrer'
               >

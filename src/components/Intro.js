@@ -19,7 +19,7 @@ function Intro(){
           >
             Obsidian 6.0
           </a>
-          &nbsp;& creating websites for small business and non-profits.
+          &nbsp;& creating websites for small businesses and non-profits.
         </p>
       </section>
   )
