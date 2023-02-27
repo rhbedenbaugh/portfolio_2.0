@@ -10,6 +10,48 @@ function ProjectContainer() {
           <div class='text'>
             <h1>&nbsp;</h1>
             <h4>Latest Project</h4>
+            <h3>Tiny Movie Finder</h3>
+            <p class='textbox'>
+              <a
+                href='https://tiny-movie-finder.netlify.app/'
+                target='_blank'
+                rel='noreferrer'
+              >
+                This
+              </a>
+              &nbsp;hits the OMDb API for movie info. Tapping a movie card opens Google of the movie. Find some fun to watch. BTW,&nbsp;
+              <a
+                href='https://github.com/rhbedenbaugh/Movie_Search'
+                target='_blank'
+                rel='noreferrer'
+              >
+                here
+              </a>
+              &nbsp;is the github repo for your viewing pleasure.
+            </p>
+            <h4>Technologies used include:</h4>
+            <ul>
+              <li>React</li>
+              <li>HTML</li>
+              <li>CSS</li>
+              <li>JavaScript</li>
+            </ul>
+          </div>
+          <a
+            href='https://tiny-movie-finder.netlify.app/'
+            target='_blank'
+            rel='noreferrer'
+          >
+            <img
+              src={require('../images/TFM.png')}
+              alt='Screenshot of Tiny Movie Finder'
+            />
+          </a>
+        </article>
+
+        <article>
+          <div class='text'>
+            <h1>&nbsp;</h1>
             <h3>Machinist Endmill Speed and Feed Calculator</h3>
             <p class='textbox'>
               <a
@@ -53,7 +95,6 @@ function ProjectContainer() {
         <article>
           <div class='text'>
             <h1>&nbsp;</h1>
-            <h4>Recent Project</h4>
             <h3>College Calculator</h3>
             <p class='textbox'>
               <a
@@ -99,7 +140,6 @@ function ProjectContainer() {
         <article>
           <div class='text'>
             <h1>&nbsp;</h1>
-            <h4>Funnest Project</h4>
             <h3>Wilson Tree Service, LLC</h3>
             <p class='textbox'>
               Now&nbsp;

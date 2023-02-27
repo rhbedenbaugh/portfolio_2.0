@@ -56,13 +56,13 @@ function About() {
                 PTRI
               </a>
               ) program during 2022. I am currently considering fully-remote
-              frontend positions.
+              frontend work.
               <br />
               <br />
-              My favorite hobby is yardwork and gardening. Working outside and
+              My favorite hobby is yardwork/gardening. Working outside and
               getting some VitaminD may be the greatest form of recreational
-              therapy. We grow a good portion of our own food, have several
-              fruiting trees and&nbsp;
+              therapy. We grow some of our own food, have several
+              fruiting trees,&nbsp;
               <a
                 href='https://www.npr.org/sections/thesalt/2017/09/26/551835327/muscadines-may-be-the-best-grapes-you-ve-never-tasted'
                 target='_blank'
@@ -71,7 +71,7 @@ function About() {
                 vines
               </a>
               , and many flowering bushes. Caring for these and simply trimming
-              the grass are so satisfying. <br />I even enjoy blowing the leaves
+              the grass are so satisfying. I even enjoy blowing the leaves
               in the&nbsp;
               <a
                 href='https://www.google.com/search?q=ber+months&rlz=1C1CHZN_enUS982US982&sxsrf=AJOqlzWzS2mKq3b6ptEeWBfbcszKU90SwQ:1673311035721&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjT0Yev4bv8AhUXnWoFHbmwAKsQ_AUoAXoECAEQAw&biw=1536&bih=760&dpr=1.25'
