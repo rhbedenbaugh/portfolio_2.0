@@ -30,7 +30,7 @@ let projects = [
     text: 'Now this was a great experience! I worked with Christina Roberts on this local small business site. We collaborated and discussed MANY ideas and were both pleased with the final result. Here is the link to my fork.',
     stack: ['HTML', 'CSS', 'JavaScript'],
     links: {
-      site: 'https://christinadroberts.github.io/WilsonTreeServiceLLC/',
+      site: 'https://wilsonsemergencytreeservice.com',
       repo: 'https://github.com/rhbedenbaugh/WilsonTreeServiceLLC',
     },
   },
