@@ -43,7 +43,7 @@ function Navbar(){
           </li>
           <li>
             <a
-              href='https://www.linkedin.com/in/robertbedenbaugh/overlay/1635537844868/single-media-viewer/?profileId=ACoAABd9cHUBuiUH5F61RNenLX_rpP-dF43QU4w'
+              href='https://www.linkedin.com/in/robertbedenbaugh/overlay/1635537980117/single-media-viewer/?profileId=ACoAABd9cHUBuiUH5F61RNenLX_rpP-dF43QU4w'
               class='button'
               target='_blank'
               rel='noreferrer'
